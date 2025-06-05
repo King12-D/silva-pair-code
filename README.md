@@ -1,5 +1,5 @@
 
-# Gifted-Session-Generator
+# KING_DAV-Session-Generator
 - Fork, Star and Edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
 - This is what I use in my **[Session Site](https://pairing.giftedtech.web.id)** so don't ask for more...
@@ -41,6 +41,6 @@
 [`HERE'S AN EXAMPLE OUTPUT`](https://kingdav.com.ng)
 # `Owner`
 
- <a href="https://github.com/King12-D"><img src="https://github.com/King12-D.jpg" width="250" height="250" alt="Gifted Tech"/></a>
+ <a href="https://github.com/King12-D"><img src="https://github.com/King12-D.jpg" width="250" height="250" alt="KING_DAV"/></a>
 
    
