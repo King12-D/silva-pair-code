@@ -6,22 +6,22 @@
 
 <strong>NB:<strong/> This repo also generates session ID for all bots using gifted-baileys/whiskeysockets/baileys but with ***megajs***
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>WEB - PAIR CODE FOR BOTS WITH GIFTED-BAILEYS
+<br/>WEB - PAIR CODE FOR BOTS WITH KINGAI-BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/mauricegift">
-    <img src="https://files.catbox.moe/52699c.jpg" width="500">
+   <a href="https://github.com/King12-D">
+    <img src="https://files.catbox.moe/ogwrk8.png" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{mauricegift}/count.svg" alt="Gifted:: Visitor's Count" /></p>
 
 
 
-[`ℹ️Contact Owner`](https://apis.giftedtech.my.id/contact)
+[`ℹ️Contact Owner`](https://kingdav.com.ng) 
 
 ### FORK THIS REPOSITORY 
  <br>
-<a href='https://github.com/mauricegift/gifted-pair-code/fork' target="_blank">
+<a href='https://github.com/King12-D/gifted-pair-code/fork' target="_blank">
     <img alt='FORK REPO' src='https://img.shields.io/badge/-FORK REPO-black?style=for-the-badge&logo=github&logoColor=white'/>
 </a>
 
@@ -38,7 +38,7 @@
     <img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/-DEPLOY TO KOYEB-black?style=for-the-badge&logo=koyeb&logoColor=white'/>
 </a>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://pairing.giftedtech.web.id)
+[`HERE'S AN EXAMPLE OUTPUT`](https://kingdav.com.ng)
 # `Owner`
 
  <a href="https://github.com/mauricegift"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Gifted Tech"/></a>
