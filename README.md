@@ -10,7 +10,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/King12-D">
-    <img src="https://files.catbox.moe/ogwrk8.png" width="500">
+    <img src="https://files.catbox.moe/ogwrk8.png" width="300">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{mauricegift}/count.svg" alt="Gifted:: Visitor's Count" /></p>
@@ -41,6 +41,6 @@
 [`HERE'S AN EXAMPLE OUTPUT`](https://kingdav.com.ng)
 # `Owner`
 
- <a href="https://github.com/mauricegift"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Gifted Tech"/></a>
+ <a href="https://github.com/King12-D"><img src="https://github.com/King12-D.jpg" width="250" height="250" alt="Gifted Tech"/></a>
 
    
